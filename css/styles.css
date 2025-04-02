@@ -1,0 +1,132 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    background-color: #FFFFFF;
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+.header {
+    background-color: #FFFFFF;
+}
+
+.header .header-components {
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+.header .header-components:hover, .header .header-components:focus {
+    color: #404BBF;
+}
+
+.header .header-components:active {
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+.header .header-links {
+    background-color: #FFFFFF;
+    color: #434455;
+    font-size: 12px;
+    line-height: 1.333;
+    letter-spacing: 4%;
+    text-decoration: none;
+}
+
+.header .header-links:hover, .header .header-links:focus {
+    color: #404BBF;
+}
+
+.header .logo {
+    color: #2E2F42;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+span {
+    color: #4D5AE5;
+}
+
+.title {
+    background-color: #2E2F42;
+    color: #ffffff; 
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 1.07;
+    text-align: center;
+    }
+
+.title-button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+    color: #ffffff;
+    background-color: #4D5AE5;
+    text-align: center;
+    cursor: pointer;
+    }
+
+.Strategy {
+    background-color: #FFFFFF;
+    font-size: 12px;
+    line-height: 1.333;
+    letter-spacing: 4%;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2E2F42;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+.team {
+    background-color: #F4F4FD;
+    color: #434455;
+}
+
+.team-card {
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+.portfolio {
+    background-color: #FFFFFF;
+    color: #434455;
+}
+
+.portfolio-card {
+    background-color: #FFFFFF;
+    text-align: left;
+}
+
+.footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+
+.footer .logo {
+    color: #ffffff;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
