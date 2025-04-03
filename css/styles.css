@@ -47,7 +47,7 @@ body {
     text-decoration: none;
 }
 
-.header .header-links-mail:hover, .header-links-tel:hover, .header .header-links-mail:focus, .header-links-tel:focus {
+.header-links-ad:hover, .header-links-ad:focus {
     color: #404BBF;
 }
 
