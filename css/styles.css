@@ -39,7 +39,7 @@ body {
     font-style: normal;
 }
 
-.header-links-mail, .header-links-tel {
+.header-links-ad {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -210,9 +210,10 @@ body {
     letter-spacing: 0.02em;
 }
 
-.footer span {
-    color: #FFFFFF;
+.footer-span {
+    color:  #f4f4fd;
 }
+
 ul {
     list-style-type: none;
 }
